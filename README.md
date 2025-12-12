@@ -38,7 +38,7 @@ Export your data in multiple formats with one click.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/amazon-product-scraper.git
+git clone https://github.com/HarshitSinghall/amazon-scrapper.git
 cd amazon-product-scraper
 ```
 
@@ -261,3 +261,4 @@ Harshit Singhal
 ⭐ If you find this project helpful, please give it a star on GitHub!
 
 **Note**: This tool is intended for educational purposes. Please use responsibly and ethically.
+
